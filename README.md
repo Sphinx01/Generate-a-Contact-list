@@ -1,5 +1,5 @@
 # Generate a Contact list .csv
-I originally thought of coding this program in order to create a contact list .csv with a mass of emails then invite them to like my facebook page. This actualy worked, you just have to find a well updated mass of emails.
+I originally thought of coding this program in order to create a contact list .csv with a mass of emails then invite them to like my facebook page. This actualy worked, you just have to find a well updated mass of emails. I don't know if the option "invite my emails list friends" still work in Facebook but it worked back then.
 
 The program takes as an input a text file f2.txt with the mailing list. Each email should be separated by coma (for example). The program reformates the list by deleting the comas and putting one email in a line. The output file f1 will be is csv file so it must start with the line : 
 '''
